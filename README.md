@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=😛😆😉😊😋😎)](https://git.io/typing-svg)
 
 <div align="flex"> 
-<img width="375px" src="https://github-readme-stats.vercel.app/api?username=Hyunicode&hide_title=true&theme=graywhite" />
-<img width="375px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hyunicode" />
+<img width="375px" margin="0px" src="https://github-readme-stats.vercel.app/api?username=Hyunicode&hide_title=true&theme=merko&hide_border=true" />
+<img width="375px" margin="0px" src="https://streak-stats.demolab.com?user=Hyunicode&theme=merko&hide_border=true&mode=weekly" />
 </div>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hyunicode&theme=github-compact" alt="Hlintony's github activity graph" width="750px" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hyunicode&theme=merko&hide_border=true" alt="Hlintony's github activity graph" width="750px" />
